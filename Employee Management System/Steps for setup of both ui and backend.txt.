@@ -1,0 +1,35 @@
+java spring boot:-  (Backend)
+1. first of all, we need to make sure we have java jdk, mavan, mySQL server(for database), eclipse (IDE), tomcat for local host server.
+2. you just go on chrome and on spring initializer and create a project, click all checks and fills the details like java version, mavan, project name ans so on.
+3. add dependancis like:- spring Web, mysql driver, spring data jpa, tymeleaf, spring boot debTools, and you can add more according you your requirement like 
+for junit and other.
+4. after downloading and extacting it you can open it in eclipse and then just manage you database.
+5. In application.properties file you need to mention the database name(which you need to create manually), root,and password of you sql.
+6. in pom.xml you spring version and mysql verion should be acceptable. like sping version is 2.7 and sql version is 8.1.0.
+--------------work started on project-------------
+you can see the videos for further things.
+
+-----------------------------------------------------
+UI:- 
+1. first of all just confirm you have npm and node js installed already. and you also have vs code.2
+2. Just create a folder --> open it in vs code --> open vs code terminal --> just write the command as follows--:
+-> npx create-react-app your_folder_name
+-> cd your_folder_name
+-> npm start
+now you will able to see you own react app on you default browser.
+now on this time you need to install some dependancy/packages like router,axios and bootstrap
+3. write the command in terminal
+-> npm install axios  //for axios for API calls
+4. now run the command for router dom@6
+-> npm install react-router-dom@6
+5. now run the command for bootstrap
+-> npm install --save bootstrap react-bootstrap
+
+--------------work started on project-------------
+1. we can create components using class components and functional components. so in this project i will use the fucntional 
+components because it's very easy as compare to class components.
+
+
+
+
+
