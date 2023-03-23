@@ -1,7 +1,7 @@
 java spring boot:-  (Backend)
 1. first of all, we need to make sure we have java jdk, mavan, mySQL server(for database), eclipse (IDE), tomcat for local host server.
 2. you just go on chrome and on spring initializer and create a project, click all checks and fills the details like java version, mavan, project name ans so on.
-3. add dependancis like:- spring Web, mysql driver, spring data jpa, tymeleaf, spring boot debTools, and you can add more according you your requirement like 
+3. add dependancis like:- spring Web, mysql driver, spring data jpa, tymeleaf, spring security, spring boot debTools, and you can add more according you your requirement like 
 for junit and other.
 4. after downloading and extacting it you can open it in eclipse and then just manage you database.
 5. In application.properties file you need to mention the database name(which you need to create manually), root,and password of you sql.
