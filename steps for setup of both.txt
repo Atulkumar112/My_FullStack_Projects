@@ -21,7 +21,7 @@ now on this time you need to install some dependancy/packages like router,axios 
 3. write the command in terminal
 -> npm install axios  //for axios for API calls
 4. now run the command for router dom@6
--> npm install react-router-dom@6
+-> npm install react-router-dom@6 for managing the routes
 5. now run the command for bootstrap
 -> npm install --save bootstrap react-bootstrap
 
